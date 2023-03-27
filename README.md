@@ -11,3 +11,15 @@ In this code, we use lemmatization to break a word down to its root meaning to i
  2. The file containing tweets should be a single column file with the Twitter handles of the users (posting the tweets) and the tweet itself
  3. The file containing the abusive/racial slurs should have "bad" word in that line. 
 
+#Task 2
+ interesting data set you discovered recently? Why is it your favorite? No datasets on Kaggle
+ 
+ #Task 3
+ The following questions test your aptitude for interacting with databases. The questions are based off the following public SQL DB: https://docs.rfam.org/en/latest/database.html
+
+a. How many types of tigers can be found in the taxonomy table of the dataset? What is the "ncbi_id" of the Sumatran Tiger? (hint: use the biological name of the tiger)
+b. Find all the columns that can be used to connect the tables in the given database.
+
+#Task 4
+This question is to test your aptitude for writing small shell scripts on Unix. You are given this URL https://www.amfiindia.com/spages/NAVAll.txt. Write a shell script that extracts the Scheme
+Name and Asset Value fields only and saves them in a csv file. 
